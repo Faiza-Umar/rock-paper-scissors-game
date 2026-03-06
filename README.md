@@ -14,7 +14,7 @@ This project demonstrates my ability to implement game logic, DOM manipulation, 
 
 ## Game Demo
 
-![Game Demo](rps.gif)
+![Game Demo](rock paper scissor game/rps.gif)
 
 ---
 
